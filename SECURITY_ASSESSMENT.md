@@ -50,13 +50,14 @@ Go through each section. For each question, check **Yes**, **No**, or **Not Sure
 | Is there a process for reporting suspicious emails? | ☐ | ☐ | ☐ |
 | Do you have email filtering enabled (junk mail protection)? | ☐ | ☐ | ☐ |
 | Are email forwarding rules regularly checked for unauthorized changes? | ☐ | ☐ | ☐ |
+| Do staff know that voices and videos can be convincingly faked (AI impersonation)? | ☐ | ☐ | ☐ |
 
 **Scoring:**
 - All Yes = ✅ Strong
 - 1-2 No/Not Sure = ⚠️ Needs Attention
 - 3+ No/Not Sure = 🚨 Critical Risk
 
-**What this protects against:** Phishing attacks, business email compromise, spoofing
+**What this protects against:** Phishing attacks, business email compromise, spoofing, AI voice/video impersonation fraud
 
 ---
 
@@ -129,13 +130,14 @@ Go through each section. For each question, check **Yes**, **No**, or **Not Sure
 | Is there a plan for what to do if you get hacked? | ☐ | ☐ | ☐ |
 | Are there written policies for acceptable technology use? | ☐ | ☐ | ☐ |
 | Do you review who has access to what at least twice a year? | ☐ | ☐ | ☐ |
+| Is there a verification protocol (second-channel confirmation / safe word) for financial or access requests? | ☐ | ☐ | ☐ |
 
 **Scoring:**
 - All Yes = ✅ Strong
 - 1-2 No/Not Sure = ⚠️ Needs Attention
 - 3+ No/Not Sure = 🚨 Critical Risk
 
-**What this protects against:** Operational chaos during incidents, forgotten accounts, compliance issues
+**What this protects against:** Operational chaos during incidents, forgotten accounts, compliance issues, AI-enabled wire fraud/business email compromise
 
 ---
 
@@ -151,13 +153,14 @@ Go through each section. For each question, check **Yes**, **No**, or **Not Sure
 | Do you have a data breach response plan with 72-hour notification procedures? | ☐ | ☐ | ☐ |
 | Do you conduct security assessments of critical vendors? | ☐ | ☐ | ☐ |
 | Do you document what personal data you collect and why? | ☐ | ☐ | ☐ |
+| Is there a policy for what staff/volunteers can and can't paste into AI tools (ChatGPT, Copilot, etc.)? | ☐ | ☐ | ☐ |
 
 **Scoring:**
 - All Yes = ✅ Strong
 - 1-2 No/Not Sure = ⚠️ Needs Attention
 - 3+ No/Not Sure = 🚨 Critical Risk
 
-**What this protects against:** GDPR fines (up to €20M), CCPA penalties, loss of donor trust, legal liability
+**What this protects against:** GDPR fines (up to €20M), CCPA penalties, loss of donor trust, legal liability, accidental data exposure via AI tools
 
 ---
 

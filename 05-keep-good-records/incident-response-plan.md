@@ -57,6 +57,7 @@ Security incidents are inevitable. What matters is how you respond.
 - Compromised email account
 - Malware infection
 - Unauthorized access by former staff
+- Suspected AI voice/video impersonation (deepfake) fraud attempt
 
 **🟡 MEDIUM (Respond Within 24 Hours)**
 - Suspicious email reported
@@ -703,6 +704,36 @@ APPROVED BY:
 
 ---
 
+### Playbook 5: Suspected AI Voice/Video Impersonation (Deepfake) Fraud Attempt
+
+**What this looks like:** A phone call, voicemail, video message, or video call that sounds or looks like a real staff member, board member, or vendor contact — but is requesting something unusual (wire transfer, gift cards, password reset, urgent access) and pressuring you to act without verifying.
+
+**Immediate Actions:**
+1. **Do not act on the request** — no transfers, gift cards, password resets, or access changes
+2. **End the call/video** — staff are not obligated to stay on the line
+3. **Verify through a known channel** — call the person back using a phone number already on file (never one provided during the suspicious call)
+4. **Use your team's verbal safe word/challenge question**, if one is established, before treating any similar future request as legitimate
+5. **Notify the Incident Commander** immediately, even if no money moved
+6. **Preserve evidence** — note the phone number, platform, time, and exact wording used; save voicemails or recordings if available
+
+**Investigation:**
+- Was this a targeted attempt (used real names, real programs, real relationships) or a generic scam?
+- Could the attacker have sourced the voice/likeness from public recordings (board meeting videos, YouTube, webinars, voicemail greetings)?
+- Did anyone act on the request before verifying?
+- Are there similar reports from other staff?
+
+**Prevention Going Forward:**
+- Establish a verbal safe word for financial/access requests, shared only within the organization
+- Be aware that publicly posting extended audio/video of leadership (interviews, board meeting recordings) increases impersonation risk
+- Include AI voice/video impersonation in volunteer/staff security training
+- Require dual approval (two people) for wire transfers and gift card purchases regardless of who requests them
+
+**Notifications:**
+- If no money or data was lost → Document internally, no external notification required
+- If money was transferred or credentials/access were compromised → Follow Phase 5 (Notification) and treat as Financial Fraud / Account Compromise as applicable
+
+---
+
 ## Incident Documentation
 
 ### Incident Log
@@ -827,6 +858,7 @@ TRAINING
 ☐ Security awareness training (annual)
 ☐ Phishing simulation tests
 ☐ Incident response training
+☐ AI impersonation (deepfake voice/video) awareness training
 ☐ New staff onboarded securely
 ☐ Regular refresher communications
 

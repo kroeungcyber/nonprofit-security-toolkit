@@ -38,6 +38,7 @@ Small non-profits (5-50 people) face the same cyber threats as big companies but
 - Deploy free password managers (Bitwarden)
 - Set up two-factor authentication
 - Streamlined volunteer access management
+- Safe AI tool (ChatGPT, Copilot) usage policy
 - [Start here →](./01-protect-your-people/)
 
 ### 2. Secure Your Email 📧
