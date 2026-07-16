@@ -26,6 +26,7 @@ Most security breaches start with stolen passwords. When attackers get into one 
 2. **[Two-Factor Authentication](./two-factor-authentication.md)** — Add a second layer of protection
 3. **[Volunteer Onboarding Checklist](./volunteer-onboarding-checklist.md)** — Secure process for new volunteers
 4. **[Volunteer Offboarding Checklist](./volunteer-offboarding-checklist.md)** — Remove access when people leave
+5. **[AI Tool Usage Policy](./ai-tool-usage-policy.md)** — What's safe to paste into ChatGPT, Copilot, and other AI tools
 
 ---
 

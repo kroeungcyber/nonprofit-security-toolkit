@@ -125,6 +125,40 @@ Teach volunteers to look for these warning signs:
 
 ---
 
+### 🤖 Important: How AI Has Changed These Rules (Read This)
+
+**The old advice — "look for typos, generic greetings, and awkward phrasing" — no longer works.**
+
+AI writing tools let anyone generate a perfectly-worded, personalized email in seconds. An attacker can scrape your organization's website, staff bios, and public tax filings (Form 990) and have AI draft a message that sounds exactly like a real donor or a real board member — with your actual names, your actual programs, and no spelling mistakes.
+
+It doesn't stop at email. AI can now:
+- **Clone a voice** from a few seconds of public audio (a board meeting recording, a YouTube interview, a voicemail greeting) and make a phone call that sounds exactly like your Executive Director.
+- **Generate a short deepfake video clip** that looks like a real person on a video call or in a message.
+- **Write a flawless, personalized scam email** in seconds — grammar and tone are no longer reliable warning signs.
+
+**What this means for you:** You can no longer trust that a message "sounds like" the right person — whether it's written, spoken, or on video. Good writing, a familiar voice, and even a familiar face on screen are no longer proof of identity.
+
+#### 🚩 The One Red Flag That Still Works
+
+No matter how convincing the message sounds, this pattern is still the giveaway:
+
+> **Urgency + secrecy + pressure to skip verification.**
+
+If someone — even someone who sounds or looks exactly like your boss — asks you to move money, buy gift cards, share credentials, or grant access **right now**, and discourages you from checking with anyone else first, treat it as a scam until proven otherwise.
+
+#### ✅ The Verification Rule: Always Use a Second Channel
+
+For **any** request involving money, credentials, or access — no matter how it arrives (email, text, phone call, or video) — verify it through a **different communication channel** than the one the request came in on:
+
+1. **Never verify by replying to the same email, texting back the same number, or calling a number given in the message.** Attackers control that channel.
+2. **Use a phone number or contact method you already had on file** — not one provided in the suspicious message.
+3. For high-stakes requests (wire transfers, gift cards, password/access changes), agree in advance on a **verbal safe word or challenge question** known only to your team, and require it before acting on any urgent financial request — even one that sounds exactly right.
+4. If you can't verify quickly, **it's always okay to say no or wait.** A real request will still be real in an hour.
+
+**Bottom line:** In the AI era, "it sounded/looked just like them" is no longer evidence. Verification through a second, trusted channel is the only thing that still works.
+
+---
+
 ### Part 3: Common Non-Profit Scams (10 minutes)
 
 #### Scam #1: The Fake Major Donor
@@ -186,6 +220,8 @@ Sent from my iPhone
 - Slightly different email address (check carefully!)
 
 **What to do:** Call or text the person directly to verify. Never buy gift cards based on email alone.
+
+> **AI Voice-Clone Variant (New):** The same scam can now arrive as a **phone call** in a voice that sounds exactly like your executive — cloned from a public recording. The red flags are identical: urgency, secrecy, an unusual request, and pressure not to verify. Hang up and call back using a number you already have on file — never a number given during the call.
 
 ---
 
@@ -258,6 +294,18 @@ ABC Office Supplies
 5. **Scan your computer for malware**
    - Run a full antivirus scan
    - Look for unusual programs or browser extensions
+
+---
+
+#### If You Suspect an AI Voice/Video Impersonation Call:
+
+🚨 **ACT IMMEDIATELY:**
+
+1. **Do not act on the request** — don't transfer money, share credentials, or grant access
+2. **Hang up or end the call/video** — you're not obligated to stay on the line
+3. **Contact the real person through a known channel** — a phone number you already had on file, not one used during the call
+4. **Tell your supervisor or IT contact immediately**, even if you're not sure — false alarms are fine, missed scams are not
+5. **Document what was said and requested**, including the phone number or platform used
 
 ---
 
@@ -376,6 +424,12 @@ Give this to all volunteers:
 │  🚨 Change your password IMMEDIATELY                       │
 │  🚨 Tell your supervisor RIGHT AWAY                        │
 │  🚨 Run antivirus scan                                      │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│  ⚠️  AI WARNING: Voices and videos can be faked.            │
+│  A familiar voice/face is NOT proof of identity.            │
+│  For money/access requests, verify via a KNOWN contact      │
+│  method — never one given in the message/call itself.       │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │  REMEMBER: When in doubt, check it out!                     │

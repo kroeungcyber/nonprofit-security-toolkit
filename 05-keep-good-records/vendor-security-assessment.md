@@ -84,6 +84,7 @@ Risk Levels:
 - Project management tools (Asana, Trello)
 - Communication tools (Slack, Zoom)
 - File sharing services (Dropbox, Box)
+- AI/automation tools (ChatGPT Team, Microsoft Copilot, Gemini for Workspace) — see [AI Tool Usage Policy](../01-protect-your-people/ai-tool-usage-policy.md) for staff-level guidance
 
 **Lower-Risk Vendors (Basic assessment):**
 - Office supplies
@@ -272,6 +273,12 @@ SECTION 6: SUBPROCESSORS & THIRD PARTIES
     - Do you conduct security assessments of your vendors? ☐ Yes ☐ No
     - Do you notify us before adding new sub-processors? ☐ Yes ☐ No
 
+20a. AI & Machine Learning Use
+    - Does this vendor use AI/ML to process our data (e.g., generative AI features, ML-based analytics)? ☐ Yes ☐ No
+    - Is data we submit used to train AI models (by this vendor or their sub-processors)? ☐ Yes ☐ No
+    - Can AI model training on our data be disabled/opted out? ☐ Yes ☐ No ☐ N/A
+    - Are underlying AI sub-processors (e.g., the LLM provider behind an AI feature) disclosed? ☐ Yes ☐ No
+
 SECTION 7: CONTRACT & LEGAL
 ─────────────────────────────────────────────────────────────
 
@@ -379,6 +386,7 @@ Score each vendor 1-5 on each category:
 - Excessive sub-processors without transparency
 - Weak access controls
 - No background checks on employees
+- Uses your data to train AI models with no disclosure or opt-out
 
 ---
 

@@ -38,6 +38,13 @@ These stories show what real security improvements look like for resource-constr
 **Result:** Audit-ready in 3 months, 80% reduction in support tickets
 **[Read the full story →](./literacy-ngo-remote-work.md)**
 
+### Regional Food Pantry Network
+**Organization:** 12 staff, 40+ volunteers, $650K budget
+**Challenge:** AI voice-clone phone call impersonating the Executive Director, requesting an $18,000 wire transfer
+**Solution:** Second-channel verification protocol, dual-approval for wires, team-wide AI-impersonation training
+**Result:** Fraud attempt stopped, $0 lost, response completed in under 1 hour
+**[Read the full story →](./ai-voice-clone-fraud-attempt.md)**
+
 ---
 
 ## Share Your Story
