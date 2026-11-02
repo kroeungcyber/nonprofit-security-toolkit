@@ -349,7 +349,7 @@ to verify your identity or your account will be permanently deleted.
 
 **Question 2:**
 ```
-From: sarah@localcommunityfoundation.org
+From: sarah@example.org
 Subject: Following up on our meeting
 
 Hi John,
@@ -375,7 +375,7 @@ Program Officer
 
 **Question 3:**
 ```
-From: director@yourorg.org
+From: director@example.org
 Subject: Quick favor?
 
 Are you available? I need you to process a wire transfer immediately 
