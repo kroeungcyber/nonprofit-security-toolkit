@@ -32,7 +32,7 @@ Small non-profits (5-50 people) face the same cyber threats as big companies but
 
 ---
 
-## 🎯 What's Inside (8 Core Modules)
+## 🎯 What's Inside
 
 ### 1. Protect Your People 👥
 - Deploy free password managers (Bitwarden)
