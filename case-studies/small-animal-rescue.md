@@ -1,5 +1,7 @@
 # Case Study: Small Animal Rescue
 
+> **Note:** This is a fictionalized, anonymized example. The organization name, person names, and domain are placeholders for illustration — any resemblance to real organizations is coincidental.
+
 ## Organization Profile
 
 | Attribute | Details |
@@ -9,7 +11,7 @@
 | **Annual Budget** | $50,000 |
 | **Tech Environment** | 3 laptops, 5 personal phones, shared email |
 | **Location** | Small town, USA |
-| **Website** | happytailsrescue.org |
+| **Website** | example.org |
 
 ---
 
@@ -32,7 +34,7 @@ Sarah, the founder of Happy Tails Animal Rescue, knew their technology situation
 - No DMARC/SPF/DKIM configured
 - Volunteers couldn't recognize phishing attempts
 - No process for reporting suspicious emails
-- info@happytailsrescue.org had been spoofed before
+- info@example.org had been spoofed before
 
 🟡 **Device Security (3/6 Needs Attention)**
 - Laptops had passwords, but screens didn't lock automatically
@@ -45,7 +47,7 @@ Sarah, the founder of Happy Tails Animal Rescue, knew their technology situation
 - 6 years of adoption records in one place
 
 🟡 **Network (2/5 Needs Attention)**
-- Office WiFi password was "happytails123"
+- Office WiFi password was a weak, guessable phrase ("password123")
 - Same network for staff and visitors
 
 🟡 **Documentation (4/6 Needs Attention)**

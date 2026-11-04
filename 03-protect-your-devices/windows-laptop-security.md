@@ -336,8 +336,6 @@ Windows is the most common target for malware and attacks. Properly configured, 
 
 ## Next Steps
 
-- **[Mac Laptop Security](./mac-laptop-security.md)** — If you also have Macs
-- **[Phone Security](./phone-security.md)** — Secure mobile devices
 - **[Backup Your Data](../04-backup-your-data/)** — Protect against data loss
 
 ---
