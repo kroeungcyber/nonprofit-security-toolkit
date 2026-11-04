@@ -494,7 +494,6 @@ Once your team is trained, consider running practice tests:
 
 ## Resources
 
-- **[Email Incident Response](./email-incident-response.md)** — What to do when phishing succeeds
 - **[Stop Phishing Attacks](./stop-phishing-attacks.md)** — Technical protections for your domain
 
 ---
