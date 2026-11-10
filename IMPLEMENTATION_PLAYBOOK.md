@@ -263,8 +263,7 @@ These are one-time use codes that let you log in if you lose your phone.
 
 See detailed guides:
 - [Windows Laptop Security](./03-protect-your-devices/windows-laptop-security.md)
-- [Mac Laptop Security](./03-protect-your-devices/mac-laptop-security.md)
-- [Phone Security](./03-protect-your-devices/phone-security.md)
+- [Device Security Overview](./03-protect-your-devices/) — includes Mac and phone key steps
 
 **Quick Checklist (all devices):**
 - [ ] Automatic updates enabled
@@ -281,7 +280,7 @@ See detailed guides:
 
 **What this does:** Creates copies of your important files in multiple places, so you never lose them.
 
-See detailed guide: [Simple Backup Strategy](./04-backup-your-data/simple-backup-strategy.md)
+See: [Backup Your Data](./04-backup-your-data/) — the 3-2-1 rule and backup tooling
 
 **The 3-2-1 Rule:**
 - **3** copies of important data
@@ -303,7 +302,7 @@ See detailed guide: [Simple Backup Strategy](./04-backup-your-data/simple-backup
 
 **Know what technology you have and who has access.**
 
-See: [Asset Tracking Template](./05-keep-good-records/asset-tracking-template.xlsx)
+See: [Asset Tracking Template](./05-keep-good-records/asset-tracking-template.md)
 
 **What to track:**
 - All computers, phones, tablets

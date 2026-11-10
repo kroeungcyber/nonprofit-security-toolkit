@@ -427,7 +427,7 @@ These could be:
 
 ## Next Steps
 
-- **[Email Incident Response](./email-incident-response.md)** — What to do if spoofing happens anyway
+- **[Incident Response Plan](../05-keep-good-records/incident-response-plan.md)** — What to do if spoofing happens anyway
 - **[Volunteer Training Guide](./volunteer-training-guide.md)** — Teach your team about phishing
 
 ---

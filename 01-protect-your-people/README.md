@@ -84,7 +84,7 @@ For full protection, implement in this order:
 - Premium adds features like encrypted file storage and emergency access
 - Consider Premium ($10/year) only if you need those extras
 
-**"What about shared accounts like info@ourorg.org?"**
+**"What about shared accounts like info@yourorg.org?"**
 - Store these in Bitwarden and share access
 - Better yet: give each person their own login if the service allows it
 - If you must share, use the password manager's sharing feature

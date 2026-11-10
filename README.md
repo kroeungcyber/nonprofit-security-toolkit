@@ -32,7 +32,7 @@ Small non-profits (5-50 people) face the same cyber threats as big companies but
 
 ---
 
-## 🎯 What's Inside (8 Core Modules)
+## 🎯 What's Inside
 
 ### 1. Protect Your People 👥
 - Deploy free password managers (Bitwarden)
@@ -66,11 +66,8 @@ Small non-profits (5-50 people) face the same cyber threats as big companies but
 - [Start here →](./05-keep-good-records/)
 
 ### 6. Automation Scripts 🤖
-Production-ready scripts that reduce manual work:
-- New laptop setup (saves 2 hours per device)
-- Automated security health checks
-- Backup verification and alerting
-- [View scripts →](./scripts/)
+Scripts that reduce manual work:
+- [New laptop setup](./scripts/setup-new-laptop.ps1) (saves ~2 hours per device)
 
 ### 7. Case Studies 📊
 Real-world scenarios showing before/after security improvements
