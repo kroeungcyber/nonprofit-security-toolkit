@@ -222,7 +222,7 @@ As you add accounts to your authenticator app, they can get disorganized. Here's
 ### In Your Authenticator App
 
 **Rename accounts to be clear:**
-- Instead of: "john@gmail.com"
+- Instead of: "jane@example.com"
 - Use: "Work Email (Gmail)"
 - Or: "Animal Rescue - Email"
 
@@ -239,8 +239,8 @@ Keep a simple list of which accounts have 2FA enabled:
 2FA-ENABLED ACCOUNTS
 
 Email:
-☑ john@animalrescue.org (Google)
-☑ info@animalrescue.org (Google)
+☑ name@example.org (Google)
+☑ info@example.org (Google)
 
 Financial:
 ☑ Chase Business Checking
@@ -421,7 +421,7 @@ Consider these extra protections for your most important accounts:
 
 Now that you have 2FA:
 1. **[Create onboarding/offboarding checklists](./volunteer-onboarding-checklist.md)** — Make sure new volunteers set up 2FA
-2. **[Secure your email](./../02-secure-your-email/)** — Learn about phishing protection
+2. **[Secure your email](../02-secure-your-email/)** — Learn about phishing protection
 
 ---
 

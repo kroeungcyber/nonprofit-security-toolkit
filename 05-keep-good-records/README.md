@@ -39,9 +39,7 @@
 
 | Resource | Purpose |
 |----------|---------|
-| **[Asset Tracking Template](./asset-tracking-template.xlsx)** | Track computers, phones, and equipment |
-| **[Vendor Contact Sheet](./vendor-contact-sheet.md)** | Important phone numbers and account info |
-| **[Security Audit Checklist](./security-audit-checklist.md)** | Regular security reviews |
+| **[Asset Tracking Template](./asset-tracking-template.md)** | Track computers, phones, and equipment |
 | **[Compliance Quick Guide](./compliance-quick-guide.md)** | GDPR, donor privacy basics |
 | **[Incident Response Plan](./incident-response-plan.md)** | Data breach response procedures |
 | **[Vendor Security Assessment](./vendor-security-assessment.md)** | Evaluating vendor security |
@@ -126,4 +124,4 @@ After implementing this section, you should be able to say:
 ---
 
 **[← Back to Main Menu](../README.md)**  
-**[Next: Asset Tracking Template →](./asset-tracking-template.xlsx)**
+**[Next: Asset Tracking Template →](./asset-tracking-template.md)**

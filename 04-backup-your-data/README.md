@@ -38,8 +38,8 @@
 
 ## What's in This Section
 
-1. **[Simple Backup Strategy](./simple-backup-strategy.md)** — The 3-2-1 rule explained
-2. **[Ransomware Recovery Plan](./ransomware-recovery-plan.md)** — What to do if you're hit
+1. **The 3-2-1 Backup Rule** — explained below
+2. **[Ransomware Recovery](../05-keep-good-records/incident-response-plan.md)** — Playbook 1: Ransomware Attack
 
 ---
 
@@ -139,4 +139,4 @@ After implementing this section, you should be able to say:
 ---
 
 **[← Back to Main Menu](../README.md)**  
-**[Next: Simple Backup Strategy →](./simple-backup-strategy.md)**
+**[Next: Ransomware Recovery →](../05-keep-good-records/incident-response-plan.md)**
