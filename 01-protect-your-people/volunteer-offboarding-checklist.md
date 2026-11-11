@@ -430,7 +430,7 @@ Completed by: _____________________
 ## Next Steps
 
 - **[Volunteer Onboarding Checklist](./volunteer-onboarding-checklist.md)** — For when new volunteers start
-- **[Asset Tracking Template](../05-keep-good-records/asset-tracking-template.xlsx)** — Update equipment assignments
+- **[Keep Good Records](../05-keep-good-records/)** — Update equipment assignments and asset inventory
 
 ---
 

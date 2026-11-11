@@ -35,7 +35,7 @@ Email is the #1 way attackers break into organizations. They send fake emails th
 
 1. **[Stop Phishing Attacks](./stop-phishing-attacks.md)** — Email authentication setup (SPF, DKIM, DMARC)
 2. **[Volunteer Training Guide](./volunteer-training-guide.md)** — Teach your team to spot fake emails
-3. **[Email Incident Response](./email-incident-response.md)** — What to do if someone clicks a phishing link
+3. **[Incident Response Plan](../05-keep-good-records/incident-response-plan.md)** — What to do if someone clicks a phishing link
 
 ---
 
