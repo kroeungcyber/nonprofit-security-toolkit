@@ -31,7 +31,7 @@ Every new volunteer needs access to tools and information to do their work. But 
 
 **Where to store:**
 - Add to your volunteer database
-- Include in your [asset tracking spreadsheet](../05-keep-good-records/asset-tracking-template.xlsx)
+- Include in your asset inventory (see [Keep Good Records](../05-keep-good-records/))
 
 ---
 
@@ -307,7 +307,7 @@ Date: _____________________
 ## Next Steps
 
 - **[Volunteer Offboarding Checklist](./volunteer-offboarding-checklist.md)** — For when volunteers leave
-- **[Asset Tracking Template](../05-keep-good-records/asset-tracking-template.xlsx)** — Track equipment assignments
+- **[Keep Good Records](../05-keep-good-records/)** — Track equipment assignments and asset inventory
 - **[Security Training Materials](../02-secure-your-email/volunteer-training-guide.md)** — What to teach new volunteers
 
 ---

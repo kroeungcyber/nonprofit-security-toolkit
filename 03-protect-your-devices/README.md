@@ -38,8 +38,8 @@ Your devices hold the keys to your organization:
 ## What's in This Section
 
 1. **[Windows Laptop Security](./windows-laptop-security.md)** — Harden Windows 10/11 computers
-2. **[Mac Laptop Security](./mac-laptop-security.md)** — Secure macOS devices
-3. **[Phone Security](./phone-security.md)** — Protect iPhones and Android phones
+2. **Mac laptop security** — See [Mac Computers](#mac-computers) below
+3. **Phone & tablet security** — See [Phones and Tablets](#phones-and-tablets) below
 
 ---
 
@@ -134,8 +134,6 @@ See: [Windows Laptop Security Guide](./windows-laptop-security.md)
 
 ### Mac Computers
 
-See: [Mac Laptop Security Guide](./mac-laptop-security.md)
-
 **Key actions:**
 - Enable Gatekeeper (blocks untrusted software)
 - Turn on automatic updates
@@ -146,8 +144,6 @@ See: [Mac Laptop Security Guide](./mac-laptop-security.md)
 ---
 
 ### Phones and Tablets
-
-See: [Phone Security Guide](./phone-security.md)
 
 **Key actions:**
 - Set a strong PIN/password (not just a pattern)
