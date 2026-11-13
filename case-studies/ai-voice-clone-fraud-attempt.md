@@ -9,7 +9,7 @@
 | **Annual Budget** | $650,000 |
 | **Tech Environment** | Google Workspace, QuickBooks Online, donor CRM, 8 shared laptops |
 | **Location** | Mid-size metro area, USA |
-| **Website** | riversidefoodpantry.org (name changed for privacy) |
+| **Website** | riversidefoodpantry.example (name changed for privacy) |
 
 ---
 

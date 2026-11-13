@@ -349,7 +349,7 @@ to verify your identity or your account will be permanently deleted.
 
 **Question 2:**
 ```
-From: sarah@localcommunityfoundation.org
+From: sarah@example.org
 Subject: Following up on our meeting
 
 Hi John,
@@ -494,7 +494,7 @@ Once your team is trained, consider running practice tests:
 
 ## Resources
 
-- **[Email Incident Response](./email-incident-response.md)** — What to do when phishing succeeds
+- **[Incident Response Plan](../05-keep-good-records/incident-response-plan.md)** — What to do when phishing succeeds
 - **[Stop Phishing Attacks](./stop-phishing-attacks.md)** — Technical protections for your domain
 
 ---

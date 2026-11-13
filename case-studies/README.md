@@ -24,20 +24,6 @@ These stories show what real security improvements look like for resource-constr
 **Result:** 100% reduction in security incidents, 4 hours to implement
 **[Read the full story →](./small-animal-rescue.md)**
 
-### Community Food Bank
-**Organization:** 15 staff, hybrid work environment
-**Challenge:** Phishing attacks, no backup strategy
-**Solution:** Email security hardening, automated backups, incident response
-**Result:** Blocked 95% of phishing attempts, full backup coverage
-**[Read the full story →](./community-food-bank.md)**
-
-### Literacy Non-Profit
-**Organization:** 20 staff, remote-first
-**Challenge:** Scattered IT, compliance concerns
-**Solution:** Standardized security stack, documentation, volunteer training
-**Result:** Audit-ready in 3 months, 80% reduction in support tickets
-**[Read the full story →](./literacy-ngo-remote-work.md)**
-
 ### Regional Food Pantry Network
 **Organization:** 12 staff, 40+ volunteers, $650K budget
 **Challenge:** AI voice-clone phone call impersonating the Executive Director, requesting an $18,000 wire transfer

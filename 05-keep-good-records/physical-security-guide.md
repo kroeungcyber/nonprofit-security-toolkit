@@ -811,7 +811,6 @@ VERIFIED BY: _________________
 **Related Documents:**
 - **[security-monitoring-guide.md](./security-monitoring-guide.md)** — Digital security monitoring
 - **[incident-response-plan.md](./incident-response-plan.md)** — Responding to physical security incidents
-- **[asset-tracking-template.xlsx](./asset-tracking-template.xlsx)** — Equipment inventory
 
 **Suppliers:**
 - **Locks/Safes:** Amazon, Home Depot, local locksmith
