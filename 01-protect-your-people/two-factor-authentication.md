@@ -239,11 +239,11 @@ Keep a simple list of which accounts have 2FA enabled:
 2FA-ENABLED ACCOUNTS
 
 Email:
-☑ john@animalrescue.org (Google)
-☑ info@animalrescue.org (Google)
+☑ name@example.org (Google)
+☑ info@example.org (Google)
 
 Financial:
-☑ Chase Business Checking
+☑ Business checking account
 ☑ PayPal
 ☑ Stripe
 

@@ -106,7 +106,7 @@ Real-world scenarios showing before/after security improvements
 |------|------|------------------|
 | Bitwarden | **Free** | $3-5/user/month commercial password managers |
 | Google Workspace | **Free tier** | Expensive Microsoft 365 licenses |
-| Aegis/Authy | **Free** | Hardware security keys ($20-50 each) |
+| Aegis / built-in iOS | **Free** | Hardware security keys ($20-50 each) |
 | Built-in Antivirus | **Free** | $50/year endpoint security suites |
 | rclone + cloud storage | **Free tier** | $100+/year backup services |
 | **Total Annual Cost** | **$0** | **$500-2000 commercial equivalent** |
